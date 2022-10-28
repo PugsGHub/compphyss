@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Anancia Devaneyan
+    given-names: Pugazharasu
+  - family-names: Senthilkumar
+    given-names: Rishi Kumar
+title: "Exercises for the Physics 760: Computational Phyics course during the WS 22/23 Term"
+version: 2.0.
+doi: 
+date-released: 
+url: "https://github.com/PugsGHub/physics760"
